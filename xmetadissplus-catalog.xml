@@ -1,0 +1,42 @@
+<!-- Catalog file taken from https://github.com/tklein23/validate-oai-xmetadissplus, written by Thoralf Klein, 2012-2013 -->
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
+ <uri name="http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd" uri="cache/dcterms.xsd" />
+ <uri name="http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" uri="cache/dc.xsd" />
+ <uri name="http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcmitype.xsd" uri="cache/dcmitype.xsd" />
+
+ <uri name="http://purl.org/info:eu-repo/schemas/xmls/2010/05/07/versionTypes.xsd" uri="cache/versionTypes.xsd" />
+ <uri name="http://purl.org/info:eu-repo/schemas/xmls/2010/04/15/publicationTypes.xsd" uri="cache/publicationTypes.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/iso639-2.xsd" uri="cache/iso639-2.xsd" />
+
+ <uri name="http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd"  uri="cache/xmetadissplus.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/cc.xsd" uri="cache/cc.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadissplus/xmetadissplustype.xsd" uri="cache/xmetadissplustype.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/ddb.xsd" uri="cache/ddb.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadissplus/hdl.xsd" uri="cache/hdl.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadissplus/doi.xsd" uri="cache/doi.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/thesis.xsd" uri="cache/thesis.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/pc.xsd" uri="cache/pc.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/urn.xsd" uri="cache/urn.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/subject.xsd" uri="cache/subject.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/iso3166.xsd" uri="cache/iso3166.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/mime.xsd" uri="cache/mime.xsd" />
+ <uri name="http://files.dnb.de/standards/xmetadiss/iso639-2.xsd" uri="cache/iso639-2.xsd" />
+ 
+ <uri name="http://www.d-nb.de/standards/xmetadissplus/xmetadissplus.xsd"  uri="cache/xmetadissplus.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/cc.xsd" uri="cache/cc.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadissplus/xmetadissplustype.xsd" uri="cache/xmetadissplustype.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/ddb.xsd" uri="cache/ddb.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadissplus/hdl.xsd" uri="cache/hdl.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadissplus/doi.xsd" uri="cache/doi.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/thesis.xsd" uri="cache/thesis.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/pc.xsd" uri="cache/pc.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/urn.xsd" uri="cache/urn.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/subject.xsd" uri="cache/subject.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/iso3166.xsd" uri="cache/iso3166.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/mime.xsd" uri="cache/mime.new.xsd" />
+ <uri name="http://www.d-nb.de/standards/xmetadiss/iso639-2.xsd" uri="cache/iso639-2.new.xsd" />
+ 
+ <uri name="http://www.w3.org/2001/03/xml.xsd" uri="cache/xml.xsd" />
+</catalog>

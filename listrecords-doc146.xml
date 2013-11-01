@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2012-06-20T15:58:20Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="XMetaDissPlus">http://enki.zib.de/opus4-running/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:146</identifier>
+        <datestamp>2012-01-03</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:true</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:51</setSpec>
+        <setSpec>pacs</setSpec>
+        <setSpec>pacs:12.15.Hh</setSpec>
+        <setSpec>msc</setSpec>
+        <setSpec>msc:05-XX</setSpec>
+        <setSpec>bk</setSpec>
+        <setSpec>bk:08.20</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">KOBV</dc:title>
+          <dc:title xsi:type="ddb:titleISO639-2" lang="eng" ddb:type="translated">COLN</dc:title>
+          <dc:creator xsi:type="pc:MetaPers">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>John</pc:foreName>
+                <pc:surName>Doe</pc:surName>
+              </pc:name>
+            </pc:person>
+          </dc:creator>
+          <dc:subject xsi:type="dcterms:DDC"/>
+          <dc:subject xsi:type="dcterms:DDC">51</dc:subject>
+          <dc:subject xsi:type="xMetaDiss:SWD">Berlin</dc:subject>
+          <dc:subject xsi:type="xMetaDiss:noScheme">Palmöl</dc:subject>
+          <dcterms:abstract xsi:type="ddb:contentISO639-2" lang="ger" ddb:type="noScheme">Die KOBV-Zentrale in Berlin-Dahlem.</dcterms:abstract>
+          <dcterms:abstract xsi:type="ddb:contentISO639-2" lang="eng" ddb:type="noScheme">Lorem impsum.</dcterms:abstract>
+          <dc:publisher xsi:type="cc:Publisher" type="dcterms:ISO3166">
+            <cc:universityOrInstitution>
+              <cc:name>Institute with DNB contact ID</cc:name>
+              <cc:place>Entenhausen</cc:place>
+            </cc:universityOrInstitution>
+            <cc:address cc:Scheme="DIN5008">Catwalk 1</cc:address>
+          </dc:publisher>
+          <dc:contributor xsi:type="pc:Contributor" type="dcterms:ISO3166" thesis:role="advisor" countryCode="DE">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Jane</pc:foreName>
+                <pc:surName>Doe</pc:surName>
+              </pc:name>
+              <pc:academicTitle>PhD</pc:academicTitle>
+            </pc:person>
+          </dc:contributor>
+          <dc:contributor xsi:type="pc:Contributor" type="dcterms:ISO3166" thesis:role="referee" countryCode="DE">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Jane</pc:foreName>
+                <pc:surName>Doe</pc:surName>
+              </pc:name>
+              <pc:academicTitle>PhD</pc:academicTitle>
+            </pc:person>
+          </dc:contributor>
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2010-11-02</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2007-04-30</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">masterThesis</dc:type>
+          <dc:identifier xsi:type="urn:nbn">123</dc:identifier>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <dc:rights>Creative Commons - Namensnennung</dc:rights>
+          <thesis:degree>
+            <thesis:level>master</thesis:level>
+            <thesis:grantor xsi:type="cc:Corporate">
+              <cc:universityOrInstitution>
+                <cc:name>Foobar Universität</cc:name>
+                <cc:place>Musterstadt</cc:place>
+                <cc:department>
+                  <cc:name>Foobar Universität</cc:name>
+                </cc:department>
+              </cc:universityOrInstitution>
+            </thesis:grantor>
+          </thesis:degree>
+          <ddb:contact ddb:contactID="Lxxxx-xxxx"/>
+          <ddb:fileNumber>1</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="test.pdf" ddb:fileID="file146-0" ddb:fileSize="8817"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/146</ddb:transfer>
+          <ddb:identifier ddb:type="URL">123</ddb:identifier>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/146</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
