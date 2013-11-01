@@ -66,7 +66,7 @@ function check_libxml_errors($xml) {
 }
 
 $xdoc = new DomDocument;
-$xdoc->Load('list-records-155-156-xmetadissplus.xml');
+$xdoc->Load('examples/list-records-155-156-xmetadissplus.xml');
 
 $xpath = new DOMXPath($xdoc);
 $xpath->registerNamespace('oai',       "http://www.openarchives.org/OAI/2.0/");

@@ -1,5 +1,5 @@
-<!-- Catalog file taken from https://github.com/tklein23/validate-oai-xmetadissplus, written by Thoralf Klein, 2012-2013 -->
 <?xml version="1.0"?>
+<!-- Catalog file taken from https://github.com/tklein23/validate-oai-xmetadissplus, written by Thoralf Klein, 2012-2013 -->
 <!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
  <uri name="http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd" uri="cache/dcterms.xsd" />
