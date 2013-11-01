@@ -33,6 +33,13 @@
  * @version     $Id$
  */
 
+if (count($argv) != 2) {
+   echo "usage: ./validate-oai-xml.php [xml file]\n";
+   exit(1);
+}
+
+$file = $argv[1];
+
 libxml_use_internal_errors(true);
 libxml_clear_errors();
 
@@ -66,7 +73,7 @@ function check_libxml_errors($xml) {
 }
 
 $xdoc = new DomDocument;
-$xdoc->Load('examples/list-records-155-156-xmetadissplus.xml');
+$xdoc->Load($file);
 
 $xpath = new DOMXPath($xdoc);
 $xpath->registerNamespace('oai',       "http://www.openarchives.org/OAI/2.0/");
@@ -106,7 +113,6 @@ foreach ($nodes AS $child) {
    $metadataDocument->loadXML($metadataXml);
 
    $xmlValid = check_libxml_errors($metadataXml);
-   print "xmlValid:" . $xmlValid . "\n";
 
    echo "validating document $identifier metadata\n";
    $valid = $metadataDocument->schemaValidate('cache/xmetadissplus.xsd');
@@ -115,7 +121,7 @@ foreach ($nodes AS $child) {
       $validDocumentIds[] = $identifier;
    }
    else {
-      # $xmlValid = check_libxml_errors($metadataXml);
+      $xmlValid = check_libxml_errors($metadataXml);
 
       print "INVALID document $identifier\n";
       $invalidDocumentIds[] = $identifier;

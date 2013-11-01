@@ -14,5 +14,5 @@ $ ./fill-cache-from-catalog.sh xmetadissplus-catalog.xml
 
 Validation:
 ```
-$ XML_CATALOG_FILES=./xmetadissplus-catalog.xml php ./validate-oai-xml.php
+$ XML_CATALOG_FILES=./xmetadissplus-catalog.xml php ./validate-oai-xml.php examples/list-records-155-156-xmetadissplus.xml
 ```
