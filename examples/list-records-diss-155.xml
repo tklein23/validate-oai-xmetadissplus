@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2012-06-22T14:17:10Z</responseDate>
+  <request verb="ListRecords" from="2012-06-22" metadataPrefix="XMetaDissPlus">http://enki.zib.de/opus4-running/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:155</identifier>
+        <datestamp>2012-06-22</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:43</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Eine Dissertation</dc:title>
+          <dc:title xsi:type="ddb:titleISO639-2" lang="eng" ddb:type="translated">A PhD-Work</dc:title>
+          <dc:creator xsi:type="pc:MetaPers">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Donald</pc:foreName>
+                <pc:surName>Duck</pc:surName>
+              </pc:name>
+            </pc:person>
+          </dc:creator>
+          <dc:subject xsi:type="dcterms:DDC">43</dc:subject>
+          <dc:subject xsi:type="xMetaDiss:noScheme">Entenhausen</dc:subject>
+          <dc:publisher xsi:type="cc:Publisher" type="dcterms:ISO3166">
+            <cc:universityOrInstitution>
+              <cc:name>Foobar Universitätsbibliothek</cc:name>
+              <cc:place>Musterstadt</cc:place>
+            </cc:universityOrInstitution>
+            <cc:address cc:Scheme="DIN5008">Musterstraße 2</cc:address>
+          </dc:publisher>
+          <dc:contributor xsi:type="pc:Contributor" type="dcterms:ISO3166" thesis:role="advisor" countryCode="DE">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Track</pc:foreName>
+                <pc:surName>Duck</pc:surName>
+              </pc:name>
+            </pc:person>
+          </dc:contributor>
+          <dc:contributor xsi:type="pc:Contributor" type="dcterms:ISO3166" thesis:role="referee" countryCode="DE">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Dagobert</pc:foreName>
+                <pc:surName>Duck</pc:surName>
+              </pc:name>
+            </pc:person>
+          </dc:contributor>
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-04-19</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012-06-22</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">doctoralThesis</dc:type>
+          <dc:identifier xsi:type="urn:nbn">urn:nbn:de:kobv:test-opus-1553</dc:identifier>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <dc:rights>Creative Commons - Namensnennung</dc:rights>
+          <thesis:degree>
+            <thesis:level>thesis.doctoral</thesis:level>
+            <thesis:grantor xsi:type="cc:Corporate">
+              <cc:universityOrInstitution>
+                <cc:name>Foobar Universität</cc:name>
+                <cc:place>Musterstadt</cc:place>
+                <cc:department>
+                  <cc:name>Foobar Universität</cc:name>
+                </cc:department>
+              </cc:universityOrInstitution>
+            </thesis:grantor>
+          </thesis:degree>
+          <ddb:fileNumber>1</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="opus_dokumentation_de.pdf" ddb:fileID="file155-0" ddb:fileSize="5404739"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/155</ddb:transfer>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/155</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

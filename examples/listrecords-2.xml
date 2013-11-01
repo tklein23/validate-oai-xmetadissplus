@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2012-06-20T15:59:00Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="XMetaDissPlus" resumptionToken="134020788300000">http://enki.zib.de/opus4-running/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:116</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit (CompletedYear und PubilshedDate) ohne (CompleteDate und PublishedYear)</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2010-04-19</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/116</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:117</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit (CompletedYear und PubilshedYear) ohne (CompletedDate und PublishedDate)</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2010</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/117</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:118</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit CompletedYear=0000 ohne (CompletedDate, PublishedYear und PublishedDate)</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">0000</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/118</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:119</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit {CompletedYear,PublishedYear}=0000 ohne (CompletedDate und PublishedDate)</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">0000</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/119</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:120</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit sehr, sehr langem Dateinamen</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2010</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>1</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="Dies_ist_ein_ganz_besonders_langer_Dateiname.pdf" ddb:fileID="file120-0" ddb:fileSize="72603"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/120</ddb:transfer>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/120</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:121</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit Dateinamen ohne Dateilabel</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2010</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>1</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="Dateiname_ohne_Dateilabel.pdf" ddb:fileID="file121-0" ddb:fileSize="72603"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/121</ddb:transfer>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/121</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:122</identifier>
+        <datestamp>2010-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Dokument mit nichtsichtbarer Datei</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2010</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>1</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="Datei_unsichtaber_in_Frontdoor.pdf" ddb:fileID="file122-0" ddb:fileSize="72603"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/122</ddb:transfer>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/122</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header status="deleted">
+        <identifier>oai:opus4.demo:123</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:125</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:article</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">article</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/125</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:126</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:bachelorthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">bachelorThesis</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <thesis:degree>
+            <thesis:level>bachelor</thesis:level>
+          </thesis:degree>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/126</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:127</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">book</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/127</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:128</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">bookPart</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/128</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:129</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:contributiontoperiodical</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">contributionToPeriodical</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/129</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:130</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">conferenceObject</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/130</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:131</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:coursematerial</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">CourseMaterial</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/131</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:132</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">doctoralThesis</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <thesis:degree>
+            <thesis:level>thesis.doctoral</thesis:level>
+          </thesis:degree>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/132</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:133</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">doctoralThesis</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <thesis:degree>
+            <thesis:level>thesis.habilitation</thesis:level>
+          </thesis:degree>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/133</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:134</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:image</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Image</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/134</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:135</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:lecture</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">lecture</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/135</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:136</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">masterThesis</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <thesis:degree>
+            <thesis:level>master</thesis:level>
+          </thesis:degree>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/136</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:137</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:movingimage</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">MovingImage</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/137</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:138</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:other</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Other</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/138</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:139</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:periodical</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Periodical</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/139</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:140</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:preprint</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">preprint</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/140</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:141</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:report</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">report</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/141</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:142</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:review</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">review</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/142</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:143</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:sound</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">sound</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/143</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:144</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:studythesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">StudyThesis</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/144</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:145</identifier>
+        <datestamp>2011-06-04</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2011-09-26</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2011</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">workingPaper</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/145</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:146</identifier>
+        <datestamp>2012-01-03</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:true</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:51</setSpec>
+        <setSpec>pacs</setSpec>
+        <setSpec>pacs:12.15.Hh</setSpec>
+        <setSpec>msc</setSpec>
+        <setSpec>msc:05-XX</setSpec>
+        <setSpec>bk</setSpec>
+        <setSpec>bk:08.20</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">KOBV</dc:title>
+          <dc:title xsi:type="ddb:titleISO639-2" lang="eng" ddb:type="translated">COLN</dc:title>
+          <dc:creator xsi:type="pc:MetaPers">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>John</pc:foreName>
+                <pc:surName>Doe</pc:surName>
+              </pc:name>
+            </pc:person>
+          </dc:creator>
+          <dc:subject xsi:type="dcterms:DDC"/>
+          <dc:subject xsi:type="dcterms:DDC">51</dc:subject>
+          <dc:subject xsi:type="xMetaDiss:SWD">Berlin</dc:subject>
+          <dc:subject xsi:type="xMetaDiss:noScheme">Palmöl</dc:subject>
+          <dcterms:abstract xsi:type="ddb:contentISO639-2" lang="ger" ddb:type="noScheme">Die KOBV-Zentrale in Berlin-Dahlem.</dcterms:abstract>
+          <dcterms:abstract xsi:type="ddb:contentISO639-2" lang="eng" ddb:type="noScheme">Lorem impsum.</dcterms:abstract>
+          <dc:publisher xsi:type="cc:Publisher" type="dcterms:ISO3166">
+            <cc:universityOrInstitution>
+              <cc:name>Institute with DNB contact ID</cc:name>
+              <cc:place>Entenhausen</cc:place>
+            </cc:universityOrInstitution>
+            <cc:address cc:Scheme="DIN5008">Catwalk 1</cc:address>
+          </dc:publisher>
+          <dc:contributor xsi:type="pc:Contributor" type="dcterms:ISO3166" thesis:role="advisor" countryCode="DE">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Jane</pc:foreName>
+                <pc:surName>Doe</pc:surName>
+              </pc:name>
+              <pc:academicTitle>PhD</pc:academicTitle>
+            </pc:person>
+          </dc:contributor>
+          <dc:contributor xsi:type="pc:Contributor" type="dcterms:ISO3166" thesis:role="referee" countryCode="DE">
+            <pc:person>
+              <pc:name type="nameUsedByThePerson">
+                <pc:foreName>Jane</pc:foreName>
+                <pc:surName>Doe</pc:surName>
+              </pc:name>
+              <pc:academicTitle>PhD</pc:academicTitle>
+            </pc:person>
+          </dc:contributor>
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2010-11-02</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2007-04-30</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">masterThesis</dc:type>
+          <dc:identifier xsi:type="urn:nbn">123</dc:identifier>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <dc:rights>Creative Commons - Namensnennung</dc:rights>
+          <thesis:degree>
+            <thesis:level>master</thesis:level>
+            <thesis:grantor xsi:type="cc:Corporate">
+              <cc:universityOrInstitution>
+                <cc:name>Foobar Universität</cc:name>
+                <cc:place>Musterstadt</cc:place>
+                <cc:department>
+                  <cc:name>Foobar Universität</cc:name>
+                </cc:department>
+              </cc:universityOrInstitution>
+            </thesis:grantor>
+          </thesis:degree>
+          <ddb:contact ddb:contactID="Lxxxx-xxxx"/>
+          <ddb:fileNumber>1</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="test.pdf" ddb:fileID="file146-0" ddb:fileSize="8817"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/146</ddb:transfer>
+          <ddb:identifier ddb:type="URL">123</ddb:identifier>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/146</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:147</identifier>
+        <datestamp>2012-01-12</datestamp>
+        <setSpec>doc-type:preprint</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dc:title xsi:type="ddb:titleISO639-2" lang="ger">Sonderzeichen, die in der Frontdoor korrekt escaped werden müssen, siehe auch Ticket OPUSVIER-1647.</dc:title>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">preprint</dc:type>
+          <dcterms:medium xsi:type="dcterms:IMT">application/pdf</dcterms:medium>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>2</ddb:fileNumber>
+          <ddb:fileProperties ddb:fileName="special-chars-%-&quot;-#-&amp;.pdf" ddb:fileID="file147-0" ddb:fileSize="1"/>
+          <ddb:fileProperties ddb:fileName="'many'  -  spaces  and  quotes.pdf" ddb:fileID="file147-1" ddb:fileSize="1"/>
+          <ddb:transfer ddb:type="dcterms:URI">http://enki.zib.de/opus4-running/oai/container/index/docId/147</ddb:transfer>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/147</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:148</identifier>
+        <datestamp>2012-01-16</datestamp>
+        <setSpec>doc-type:preprint</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2012</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">preprint</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/148</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:149</identifier>
+        <datestamp>2012-01-23</datestamp>
+        <setSpec>doc-type:preprint</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:dateAccepted xsi:type="dcterms:W3CDTF">2012</dcterms:dateAccepted>
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">preprint</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2">ger</dc:language>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/149</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:152</identifier>
+        <datestamp>2012-06-20</datestamp>
+        <setSpec>doc-type:</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012-06-20</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Other</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2"/>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/152</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:166</identifier>
+        <datestamp>2012-06-20</datestamp>
+        <setSpec>doc-type:</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012-06-20</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Other</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2"/>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/166</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:180</identifier>
+        <datestamp>2012-06-20</datestamp>
+        <setSpec>doc-type:</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012-06-20</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Other</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2"/>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/180</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:opus4.demo:194</identifier>
+        <datestamp>2012-06-20</datestamp>
+        <setSpec>doc-type:</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <xMetaDiss:xMetaDiss xmlns:xMetaDiss="http://www.d-nb.de/standards/xmetadissplus/" xmlns:cc="http://www.d-nb.de/standards/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:pc="http://www.d-nb.de/standards/pc/" xmlns:urn="http://www.d-nb.de/standards/urn/" xmlns:hdl="http://www.d-nb.de/standards/hdl/" xmlns:doi="http://www.d-nb.de/standards/doi/" xmlns:thesis="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:ddb="http://www.d-nb.de/standards/ddb/" xmlns:dini="http://www.d-nb.de/standards/xmetadissplus/type/" xmlns="http://www.d-nb.de/standards/subject/" xsi:schemaLocation="http://www.d-nb.de/standards/xmetadissplus/ http://files.dnb.de/standards/xmetadissplus/xmetadissplus.xsd">
+          <dcterms:issued xsi:type="dcterms:W3CDTF">2012-06-20</dcterms:issued>
+          <dc:type xsi:type="dini:PublType">Other</dc:type>
+          <dc:language xsi:type="dcterms:ISO639-2"/>
+          <ddb:fileNumber>0</ddb:fileNumber>
+          <ddb:identifier ddb:type="URL">http://enki.zib.de/opus4-running/frontdoor/index/index/docId/194</ddb:identifier>
+          <ddb:rights ddb:kind="free"/>
+        </xMetaDiss:xMetaDiss>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2012-06-21T15:59:02Z" completeListSize="137" cursor="100"/>
+  </ListRecords>
+</OAI-PMH>
